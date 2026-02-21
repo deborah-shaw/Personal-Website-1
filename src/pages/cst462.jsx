@@ -17,9 +17,9 @@ function cst462(){
                 <h3>Projects</h3>
 
                 <h4>Research Paper: The Social and Economic Impact of Digital Literacy for Seniors</h4>
-                <iframe src="/projects/cst462_research_paper.pdf" width="100%" height="600px">
+                <iframe src="/Personal-Website-1/projects/cst462_research_paper.pdf" width="100%" height="600px">
                     This browser does not support PDFs. Please download the PDF instead:
-                    <a href="/projects/cst462_research_paper.pdf">Download PDF</a>
+                    <a href="/Personal-Website-1/projects/cst462_research_paper.pdf">Download PDF</a>
                 </iframe>
 
                 <br />
@@ -27,9 +27,9 @@ function cst462(){
                 <figure>
                     <h2>The Document Foundation: Service Internship</h2>
                     <h3>🚨🐞First Responder (reporting and confirming bugs):🐞🚨</h3>
-                    <img src="/img/462-sticker1.jpg" alt="Picture of sticker packs award" />
+                    <img src="/Personal-Website-1/img/462-sticker1.jpg" alt="Picture of sticker packs award" />
                     <h3>🎉🎉🎉 A lucky WINNER of a LibreOffice hoodie 🎉🎉🎉</h3>
-                    <img src="/img/462-sticker2.jpg" alt="Picture of sticker packs award" />
+                    <img src="/Personal-Website-1/img/462-sticker2.jpg" alt="Picture of sticker packs award" />
                 </figure>
             </div>
             <Footer/>
